@@ -4,7 +4,7 @@ charging_symbol = "⚡️"
 discharging_symbol = "💀"
 
 [character]
-format = "👾 $symbol "
+format = "🌍 $symbol "
 
 [status]
 disabled = false
