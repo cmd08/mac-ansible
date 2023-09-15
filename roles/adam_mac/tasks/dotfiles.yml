@@ -29,7 +29,6 @@
   - digrc
   - inputrc
   - ipython/profile_default/startup/00-imports.py
-  - mrconfig
   - ssh/config
   - zprofile
   - zshrc
