@@ -74,9 +74,9 @@ homebrew_packages:
 
 homebrew_cask_packages:
 - android-studio
-- chrome
 - discord
 - docker
+- google-chrome
 - homebrew/cask-fonts/font-ubuntu-mono-nerd-font
 - iterm2
 - java
