@@ -79,7 +79,6 @@ homebrew_cask_packages:
 - google-chrome
 - homebrew/cask-fonts/font-ubuntu-mono-nerd-font
 - iterm2
-- java
 - microsoft-teams
 - rectangle
 - skype
