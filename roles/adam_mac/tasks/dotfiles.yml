@@ -40,9 +40,3 @@
     src: dotfiles/innotop/innotop.conf
     dest: ~/.innotop/innotop.conf
     force: false  # Only if it doesn't exist
-
-- name: pypirc
-  copy:
-    src: dotfiles/pypirc
-    dest: ~/.pypirc
-    force: false
