@@ -116,7 +116,6 @@ pip_packages:
 - httpie
 - ipdb
 - ipython
-- lifelogger
 - poetry
 - pre-commit
 - pygments
