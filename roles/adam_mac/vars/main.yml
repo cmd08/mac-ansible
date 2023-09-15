@@ -5,9 +5,7 @@ homebrew_packages:
 - awscli
 - cloc
 - coreutils
-- cowsay
 - enchant
-- exiftool
 - fd
 - fdupes
 - ffmpeg
