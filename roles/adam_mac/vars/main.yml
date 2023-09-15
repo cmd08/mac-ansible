@@ -120,3 +120,15 @@ pip_packages:
 - yt-dlp
 - virtualenv
 - wheel
+
+post_install_open:
+  - Discord
+  - Docker
+  - 'Google\ Chrome'
+  - iTerm
+  - 'Microsoft\ Teams'
+  - Rectangle
+  - Slack
+  - Skype
+  - Steam
+  - Zoom

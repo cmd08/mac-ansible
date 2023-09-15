@@ -17,6 +17,11 @@ Getting Started
 5. `pip install ansible` (always the best way to install Ansible)
 6. Then `./playbook.yml`
 
+Mac OS Permissions
+------------------
+
+MacOS now asks for a bunch of permissions once you've installed things. The playbook will automatically open these apps, which might lead to chaos... lets see!
+
 Fork! Copy! Adapt!
 ------------------
 

@@ -11,3 +11,7 @@
 
 - name: Copy in/clone app settings
   import_tasks: app_settings.yml
+
+- name: Open All The Things!
+  command: open -a {{item}}
+  loop: "{{post_install_open}}"
