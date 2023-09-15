@@ -96,10 +96,6 @@ pyenv_python_versions:
 - 3.11.4
 - 3.10.12
 - 3.9.17
-- 3.8.17
-- 3.7.17
-- 3.12.0b2
-- pypy3.9-7.3.9
 
 pip_packages:
 - black
