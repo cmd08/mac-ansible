@@ -80,14 +80,14 @@ homebrew_cask_packages:
 - homebrew/cask-fonts/font-ubuntu-mono-nerd-font
 - iterm2
 - java
-- karabiner-elements
-- keyboard-maestro
 - microsoft-teams
 - rectangle
 - skype
+- slack
 - steam
 - tableplus
 - vagrant
+- visual-studio-code
 - vlc
 - zoom
 
