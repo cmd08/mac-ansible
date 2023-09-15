@@ -23,7 +23,6 @@ homebrew_packages:
 - heroku/brew/heroku
 - hyperfine
 - inetutils
-- jhead
 - jpeg
 - jpegoptim
 - jq
@@ -64,35 +63,31 @@ homebrew_packages:
 - wget
 - xz
 - zlib
+- zsh
 - zsh-completions
 - zsh-autosuggestions
 - zsh-history-substring-search
 - zsh-syntax-highlighting
+- zsh-you-should-use
 
 homebrew_cask_packages:
-- anki
-- calibre
+- android-studio
+- chrome
 - discord
 - docker
-- evernote
-- firefox
 - homebrew/cask-fonts/font-ubuntu-mono-nerd-font
-- franz
 - iterm2
-- istat-menus
 - java
 - karabiner-elements
 - keyboard-maestro
-- mactex
-- mplayerx
-- paintbrush
+- microsoft-teams
 - rectangle
-- skim
 - skype
 - steam
 - tableplus
 - vagrant
 - vlc
+- zoom
 
 pyenv_python_versions:
 # In precedence order
