@@ -104,13 +104,13 @@
     conflictStyle = zdiff3
     # https://adamj.eu/tech/2022/11/05/git-automatically-stash-rebase-merge/
     autoStash = true
-    tool = sublime
+    tool = vscode
 
 [mergetool]
     keepBackup = false
 
-[mergetool "sublime"]
-    cmd = subl -w $MERGED
+[mergetool "vscode"]
+    cmd = code -w $MERGED
 
 [pager]
     status = true

@@ -90,7 +90,6 @@ homebrew_cask_packages:
 - skim
 - skype
 - steam
-- sublime-text
 - tableplus
 - vagrant
 - vlc
