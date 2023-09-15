@@ -1,3 +1,5 @@
+home_path: "/Users/cmd/"
+
 homebrew_packages:
 - autoconf
 - autojump
