@@ -41,9 +41,8 @@ homebrew_packages:
 - ossp-uuid
 - pandoc
 - parallel
-- percona-toolkit
 - pkg-config
-- postgresql
+- postgresql@15
 - pre-commit
 - pwgen
 - pyenv
