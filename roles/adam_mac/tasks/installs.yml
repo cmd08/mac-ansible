@@ -18,6 +18,12 @@
   tags:
   - brew
 
+# Chrome also installs some guff to the local /Applications folder. Delete
+- name: Remove Chrome Guff
+  file:
+    path: "{{home_path}}/Applications/Chrome*"
+    state: absent
+
 - name: Upgrade pyenv
   shell: brew unlink pyenv && brew install --head --fetch-head pyenv && brew link pyenv --head
   tags:
