@@ -1,3 +1,7 @@
+# Required for Steam
+- name: Install Rosetta
+  command: "softwareupdate --install-rosetta --agree-to-license"
+
 - name: Update homebrew
   homebrew:
     name: git
